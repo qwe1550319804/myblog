@@ -6,7 +6,6 @@ tags:
     - 羽毛球技巧
 author:
     name: T
-    link: https://github.com/encode-studio-fe/fe-spec
----
+    link: https://github.com/qwe1550319804/myblog
 
 # 羽毛球技巧

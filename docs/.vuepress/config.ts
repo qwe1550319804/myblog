@@ -8,7 +8,7 @@ export default defineConfig4CustomTheme({
       description: '专注于数据分析',
     },
   },
-  base: '/styleGuide/',
+  base: '/myBlog/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/index.md' },

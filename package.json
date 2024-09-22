@@ -1,0 +1,16 @@
+{
+  "name": "encode-fe-spec",
+  "private": true,
+  "description": "印客学院--前端编码规范工程化",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.9",
+    "vuepress-plugin-one-click-copy": "^1.0.2",
+    "vuepress-plugin-zooming": "^1.1.7"
+  }
+
+}

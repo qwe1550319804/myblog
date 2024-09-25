@@ -1,7 +1,6 @@
 {
-  "name": "encode-fe-spec",
-  "private": true,
-  "description": "印客学院--前端编码规范工程化",
+  "name": "myblock",
+  "description": "个人博客",
   "scripts": {
     "init": "pnpm install",
     "docs:dev": "vuepress dev docs",
